@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+[![npm](https://img.shields.io/npm/v/react-career-resume.svg)](https://www.npmjs.com/package/react-career-resume)
+
 In the project directory, you can run:
 
 ### `npm start`
