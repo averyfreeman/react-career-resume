@@ -1,6 +1,6 @@
 {
-  "short_name": "React Career Resume",
-  "name": "Career Resume created with React",
+  "short_name": "Resume for Avery Freeman",
+  "name": "Career Resume developed with React",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,5 +20,5 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#1166cc"
 }
